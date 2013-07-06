@@ -1,4 +1,4 @@
 shroudbox
 =========
 
-A "no-trust" encrypted file replication and storage solution
+Encrypted file replication and storage solution
